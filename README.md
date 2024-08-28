@@ -1,35 +1,48 @@
 ![Logo UNAHUR](./assets/UNAHUR.png)
 
-Bienvenidxs a
-# Programación con objetos I
+# Programación con objetos I  
 
-En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
+# Miria Silvina Yáñez
 
-```
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!" 
-    }
-}
-```
+Hola, estoy cursando el 2do. año de la **Tecnicatura en Programación**,
+ingresé en 2023 después de pensar mucho en volver a la universidad,
+ _(nunca antes vi algo de programación ni he trabajado en algo cercano a ella)_,
+sin embargo como soy una persona activa y curiosa, me decidí a encarar otra carrera para cambiar de ocupación.
 
-## Datos de la cursada :book:
-* Modalidad Mixta
-* Horario comisión **turno noche**: Martes 18hs.
-* Horario comisión **turno mañana**: Miercoles 8hs.
-* Horario **ambas comisión**: Sabados 10hs.
-* Este cuatrimestre los profesores somos Gerardo González, Lucas Spigariol y Hernán Coniglio
-* Además nos acompañan como colaboradores Valentino Chiappani, Manuel Nuñez, Tobias Di Salvo, Enzo Alarcón, Cristian Gonzalez, Gabriel Ledezma, Maia Barrionuevo y Gabriel Álvarez.
+Empecé a indagar sobre temas relacionados a tecnología, informática y herramientas digitales.
+Varios colegas docentes me recomendaron UNAHUR y además vivo relativamente cerca.
 
-## Links importantes :monocle_face:
-- [x] [Página principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/1my_Oo31XGP7EE2kQ7otHWRg_LeoMR48rmhF7LiMkbDY/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.com/channels/656909199510601744/1088949265306501130) y ver el canal de Discord.
+Me interesó en especial Programación y si puedo, quisiera hacer también la Licenciatura en Informática.
 
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
+Me gradué en Ingeniería en Construcciones y en Ingeniería Civil, en la Universidad Nacional de La Plata, en el siglo pasado... :classical_building:
 
-* [Guía Ràpida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglés)_
+Actualmente trabajo como profesora de física, fisicoquímica y matemática en varias escuelas secundarias de Morón.
 
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
+Soy mamá de 3 hijos, que también son universitarios:
+
+* la mayor se graduó en Arquitectura, en UBA
+
+* el del medio estudia Lic. en Gastronomía, en UADE
+
+* y el menor, Contador Público, en UBA.
+
+## Cosas que me encantan :musical_score:
+
+* Estudiar _(obvio...)_
+* Escuchar música (MPB, jazz, de todo un poco)
+* Idiomas 
+* Cocinar y compartir con mi familia y amigos :green_salad: :woman_cook:
+* Viajar y conocer, el año pasado estuve en Santa Cruz y Tierra del Fuego.
+
+ ![Glaciar](./assets/glaciar1.jpeg)
+
+
+## Lista de pendientes :clipboard:
+
+* [x] Taller de natación (no había cupo para el 2do. cuatrimestre)
+* [x] Retomar yoga
+* [x] [Visitar el Planetario](https://planetario.buenosaires.gob.ar):ringed_planet: para el próximo eclipse :sunglasses: 
+
+
+
+ 
