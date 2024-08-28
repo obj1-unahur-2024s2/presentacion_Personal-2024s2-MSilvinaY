@@ -34,7 +34,7 @@ Soy mamá de 3 hijos, que también son universitarios:
 * Cocinar y compartir con mi familia y amigos :green_salad: :woman_cook:
 * Viajar y conocer, el año pasado estuve en Santa Cruz y Tierra del Fuego.
 
- ![Glaciar](./assets/glaciar1.jpeg)
+ ![Glaciar](./assets/wow_glaciar1.png)
 
 
 ## Lista de pendientes :clipboard:
