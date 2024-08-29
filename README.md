@@ -12,7 +12,7 @@ sin embargo como soy una persona activa y curiosa, me decidí a encarar otra car
 Empecé a indagar sobre temas relacionados a tecnología, informática y herramientas digitales.
 Varios colegas docentes me recomendaron UNAHUR y además vivo relativamente cerca.
 
-Me interesó en especial Programación y si puedo, quisiera hacer también la Licenciatura en Informática.
+Me interesó en especial Programación y si puedo, quisiera hacer también la Licenciatura en Informática. :octocat:
 
 Me gradué en Ingeniería en Construcciones y en Ingeniería Civil, en la Universidad Nacional de La Plata, en el siglo pasado... :classical_building:
 
